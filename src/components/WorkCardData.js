@@ -1,5 +1,6 @@
 import SS5 from "../asstes/SS5.png";
 import Guideme from "../asstes/Guide me.jpg";
+import init from "../asstes/init.png"
 
 
 const ProjectCardData =[
@@ -25,6 +26,19 @@ const ProjectCardData =[
         
         
      },
+
+     {
+      imgsrc: init, 
+      title: "Assisify",
+      text: "Welcome to Assistify, your premier destination for investing in real estate through a secure and innovative platform. Our company offers you the unique opportunity to grow your wealth by investing in lucrative real estate properties without the hassle of traditional property management.  ",
+    
+
+      view: "https://moutazjazairi.github.io/Assistify/"
+      
+      
+      
+   },
+
 
     
     
