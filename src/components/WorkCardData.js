@@ -1,6 +1,9 @@
 import SS5 from "../asstes/SS5.png";
 import Guideme from "../asstes/Guide me.jpg";
 import init from "../asstes/init.png"
+import wordslogo from "../asstes/words-logo.png"
+import Ultra from "../asstes/Ultra.png"
+import Bond from "../asstes/Bond.png"
 
 
 const ProjectCardData =[
@@ -37,6 +40,27 @@ const ProjectCardData =[
       
       
       
+   },
+   {
+      imgsrc: wordslogo,
+      title:  "Words Academy" ,
+      text:"Words academy has been found in hands of educators, content writers, painters and musical specialists who search to find the best practices and methods for kids to learn online Arabic and English languages by interactive and fun ways.",
+      view: "https://wordsacademy.online/"
+
+   },
+   {
+      imgsrc: Ultra,
+      title:  "Ultra life Technical Services L.L.C" ,
+      text:"We are a leading company in providing innovative solutions for maintenance services. We understand the importance of quality and professionalism in every project we undertake, and we are committed to delivering high-quality services to our clients.",
+      view: "https://ultralifeservices.com/"
+
+   },
+   {
+      imgsrc: Bond,
+      title:  "Bond & Beyond" ,
+      text:"وند أند بيوندو علامة تجارية متخصصة في بيع الهدايا التي تلامس القلوب, وتضفي على مناسباتكم طابعًا من التميز والدفء, نسعى لتقديم لحظات لا تُنسى من خلال هدايا تعبّر عن أحلى المشاعر",
+      view: "https://bondsandbeyond.ae/"
+
    },
 
 
