@@ -12,7 +12,9 @@ const Project = () => {
       <Navbar />
       <Heroimg2 heading="PROJECTS." text="Some of my recent works" />
       <Work />
+      {/* 
       <PricingCard />
+      */}
       <Footer />
     </div>
   )
